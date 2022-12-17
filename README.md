@@ -1,2 +1,3 @@
 # odin-recipes
-project 1
+Practice website that studies basic HTML principles and consolidates
+a diverse selection of recipes.
